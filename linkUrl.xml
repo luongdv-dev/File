@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List>
+<unit part = "Unit 1" name= "Snack Time" >
+	<!-- -->
+	<!-- 표기시 주의사항
+
+        1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+        2. intro  사운드가 없을땐 "" space없이.
+-->
+
+  <level    page = "10"     title = "Aims"							intro = "Unit1/SB_2_1_00_Aims"					link = "1"  >00_Learning Aims</level>
+		<level    page = "10"     title = "Introduction"				intro = "common/01_Intro_A"							link = "2"  >01_Intro_A</level>
+		<level    page = "10"     title = "Introduction"				intro = "common/01_Intro_B"							link = "2"  >01_Intro_B</level>
+		<level    page = "10"     title = "Introduction"				intro = "common/01_Intro_C"							link = "2"  >01_Intro_C</level>
+		<level    page = "11"     title = "Introduction"				intro = "common/01_Intro_D"							link = "2"  >01_Intro_D</level>
+		<level    page = "11"     title = "Introduction"				intro = "Unit1/SB_2_1_01_Intro_E_01"							link = "2"  >01_Intro_E</level>
+		<level    page = "12"     title = "Song"						intro = "Unit1/SB_2_1_02_Song_A_01"					link = "3"  >02_Song_A</level>
+		<level    page = "12"     title = "Reading"						intro = "common/03_Reading_B"						link = "4"  >03_Reading_B</level>
+		<level    page = "13"     title = "Speaking"					intro = "Unit1/SB_2_1_04_Speaking_A_01"				link = "5"  >04_Speaking_A</level>
+		<level    page = "13"     title = "Speaking"					intro = "Unit1/SB_2_1_04_Speaking_B_01"				link = "5"  >04_Speaking_B</level>
+		<level    page = "14"     title = "Story"						intro = "common/05_Story_A"							link = "6"  >05_Story_A</level>
+		<level    page = "14"     title = "Story"						intro = "common/05_Story_B"							link = "6"  >05_Story_B</level>
+		<level    page = "14"     title = "Story"						intro = "common/05_Story_C"							link = "6"  >05_Story_C</level>
+		<level    page = "15"     title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "15"     title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "15"     title = "Expand"						intro = "Unit1/SB_2_1_06_Expand_C_01"						link = "7"  >06_Expand_C</level>
+		<level    page = "15"     title = "Expand"						intro = "common/06_Expand_D"						link = "7"  >06_Expand_D</level>
+		<level    page = "16"     title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "17"     title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "18"     title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "18"     title = "Connect"						intro = "Unit1/SB_2_1_07_Connect_D_01"				link = "8"  >07_Connect_D</level>
+		<level    page = "19"     title = "Phonics"						intro = "common/08_Phonics_A"						link = "9"  >08_Phonics_A</level>
+		<level    page = "19"     title = "Phonics"						intro = "Unit1/SB_2_1_08_Phonics_B_01"				link = "9"  >08_Phonics_B</level>
+		<level    page = "19"     title = "Writing"						intro = "Unit1/SB_2_1_09_Writing_A_01"				link = "10"  >09_Writing_A</level>
+	 
+  </unit>
+
+  <unit part = "Unit 2" name= "My Clothes" >
+		<!-- -->
+		<!-- 표기시 주의사항
+
+            1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+            2. intro  사운드가 없을땐 "" space없이.
+    -->
+
+	   <level    page = "20"     title = "Aims"							intro = "Unit2/SB_2_2_00_Aims_01"					link = "1"  >00_Learning Aims</level>
+		<level    page = "20"     title = "Introduction"				intro = "common/01_Intro_A"							link = "2"  >01_Intro_A</level>
+		<level    page = "20"     title = "Introduction"				intro = "common/01_Intro_B"							link = "2"  >01_Intro_B</level>
+		<level    page = "20"     title = "Introduction"				intro = "common/01_Intro_C"							link = "2"  >01_Intro_C</level>
+		<level    page = "21"     title = "Introduction"				intro = "common/01_Intro_D"							link = "2"  >01_Intro_D</level>
+		<level    page = "21"     title = "Introduction"				intro = "unit2/SB_2_2_01_Intro_E_01"							link = "2"  >01_Intro_E</level>
+		<level    page = "22"     title = "Song"						intro = "Unit2/SB_2_2_02_Song_A_01"					link = "3"  >02_Song_A</level>
+		<level    page = "22"     title = "Reading"						intro = "common/03_Reading_B"						link = "4"  >03_Reading_B</level>
+		<level    page = "23"     title = "Speaking"					intro = "Unit2/SB_2_2_04_Speaking_A"				link = "5"  >04_Speaking_A</level>
+		<level    page = "23"     title = "Speaking"					intro = "Unit2/SB_2_2_04_Speaking_B_01"				link = "5"  >04_Speaking_B</level>
+		<level    page = "24"     title = "Story"						intro = "common/05_Story_A"							link = "6"  >05_Story_A</level>
+		<level    page = "24"     title = "Story"						intro = "common/05_Story_B"							link = "6"  >05_Story_B</level>
+		<level    page = "24"     title = "Story"						intro = "common/05_Story_C"							link = "6"  >05_Story_C</level>
+		<level    page = "25"     title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "25"     title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "25"     title = "Expand"						intro = "common/06_Expand_C"						link = "7"  >06_Expand_C</level>
+		<level    page = "25"     title = "Expand"						intro = "common/06_Expand_D"						link = "7"  >06_Expand_D</level>
+		<level    page = "26"     title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "27"     title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "28"     title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "28"     title = "Connect"						intro = "Unit2/SB_2_2_07_Connect_D"				link = "8"  >07_Connect_D</level>
+		<level    page = "29"     title = "Phonics"						intro = "common/08_Phonics_A"						link = "9"  >08_Phonics_A</level>
+		<level    page = "29"     title = "Phonics"						intro = "Unit2/SB_2_2_08_Phonics_B_01"				link = "9"  >08_Phonics_B</level>
+		<level    page = "29"     title = "Writing"						intro = "Unit2/SB_2_2_09_Writing_A"				link = "10"  >09_Writing_A</level>
+	 
+  </unit>
+
+  <unit part = "Unit 3" name= "My Favorite Food" >
+		<!-- -->
+		<!-- 표기시 주의사항
+
+            1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+            2. intro  사운드가 없을땐 "" space없이.
+    -->
+
+	  <level    page = "30"     title = "Aims"							intro = "Unit3/SB_2_3_00_Aims"						link = "1"  >00_Learning Aims</level>
+		<level    page = "30"     title = "Introduction"			intro = "common/01_Intro_A"							link = "2"  >01_Intro_A</level>
+		<level    page = "30"     title = "Introduction"			intro = "common/01_Intro_B"							link = "2"  >01_Intro_B</level>
+		<level    page = "30"     title = "Introduction"			intro = "common/01_Intro_C"							link = "2"  >01_Intro_C</level>
+		<level    page = "31"     title = "Introduction"			intro = "common/01_Intro_D"							link = "2"  >01_Intro_D</level>
+		<level    page = "31"     title = "Introduction"			intro = "Unit3/SB_2_3_01_Intro_E_01"							link = "2"  >01_Intro_E</level>
+		<level    page = "32"     title = "Song"						intro = "Unit3/SB_2_3_02_Song_A_01"			link = "3"  >02_Song_A</level>
+		<level    page = "32"     title = "Reading"						intro = "common/03_Reading_B"					link = "4"  >03_Reading_B</level>
+		<level    page = "33"     title = "Speaking"					intro = "Unit3/SB_2_3_04_Speaking_A_01"			link = "5"  >04_Speaking_A</level>
+		<level    page = "33"     title = "Speaking"					intro = "Unit3/SB_2_3_04_Speaking_B_01"			link = "5"  >04_Speaking_B</level>
+		<level    page = "34"     title = "Story"						intro = "common/05_Story_A"							link = "6"  >05_Story_A</level>
+		<level    page = "34"     title = "Story"						intro = "common/05_Story_B"							link = "6"  >05_Story_B</level>
+		<level    page = "34"     title = "Story"						intro = "common/05_Story_C"							link = "6"  >05_Story_C</level>
+		<level    page = "35"     title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "35"     title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "35"     title = "Expand"						intro = "Unit3/SB_2_3_06_Expand_C_01"						link = "7"  >06_Expand_C</level>
+		<level    page = "35"     title = "Expand"						intro = "common/06_Expand_D"										link = "7"  >06_Expand_D</level>
+		<level    page = "36"     title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "37"     title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "38"     title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "38"     title = "Connect"						intro = "Unit3/SB_2_3_07_Connect_D_01"				link = "8"  >07_Connect_D</level>
+		<level    page = "39"     title = "Phonics"						intro = "common/08_Phonics_A"						link = "9"  >08_Phonics_A</level>
+		<level    page = "39"     title = "Phonics"						intro = "Unit3/SB_2_3_08_Phonics_B_01"				link = "9"  >08_Phonics_B</level>
+		<level    page = "39"     title = "Writing"						intro = "Unit3/SB_2_3_09_Writing_A"				link = "10"  >09_Writing_A</level>
+	 
+  </unit>
+
+  <unit part = "Unit 4" name= "My Classes" >
+		<!-- -->
+		<!-- 표기시 주의사항
+
+           1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+            2. intro  사운드가 없을땐 "" space없이.
+    -->
+
+	  <level    page = "44"     title = "Aims"							intro = "Unit4/SB_2_4_00_Aims_01"					link = "1"  >00_Learning Aims</level>
+		<level    page = "44"     title = "Introduction"				intro = "common/01_Intro_A"							link = "2"  >01_Intro_A</level>
+		<level    page = "44"     title = "Introduction"				intro = "common/01_Intro_B"							link = "2"  >01_Intro_B</level>
+		<level    page = "44"     title = "Introduction"				intro = "common/01_Intro_C"							link = "2"  >01_Intro_C</level>
+		<level    page = "45"     title = "Introduction"				intro = "common/01_Intro_D"							link = "2"  >01_Intro_D</level>
+		<level    page = "45"     title = "Introduction"				intro = "unit4/SB_2_4_01_Intro_E_01"							link = "2"  >01_Intro_E</level>
+		<level    page = "46"     title = "Song"						intro = "Unit4/SB_2_4_02_Song_A_01"					link = "3"  >02_Song_A</level>
+		<level    page = "46"     title = "Reading"						intro = "common/03_Reading_B"						link = "4"  >03_Reading_B</level>
+		<level    page = "47"     title = "Speaking"					intro = "Unit4/SB_2_4_04_Speaking_A"				link = "5"  >04_Speaking_A</level>
+		<level    page = "47"     title = "Speaking"					intro = "Unit4/SB_2_4_04_Speaking_B_01"				link = "5"  >04_Speaking_B</level>
+		<level    page = "48"     title = "Story"						intro = "common/05_Story_A"							link = "6"  >05_Story_A</level>
+		<level    page = "48"     title = "Story"						intro = "common/05_Story_B"							link = "6"  >05_Story_B</level>
+		<level    page = "48"     title = "Story"						intro = "common/05_Story_C"							link = "6"  >05_Story_C</level>
+		<level    page = "49"     title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "49"     title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "49"     title = "Expand"						intro = "common/06_Expand_C"						link = "7"  >06_Expand_C</level>
+		<level    page = "49"     title = "Expand"						intro = "common/06_Expand_D"						link = "7"  >06_Expand_D</level>
+		<level    page = "50"     title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "51"     title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "52"     title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "52"     title = "Connect"						intro = "Unit4/SB_2_4_07_Connect_D_01"				link = "8"  >07_Connect_D</level>
+		<level    page = "53"     title = "Phonics"						intro = "common/08_Phonics_A"						link = "9"  >08_Phonics_A</level>
+		<level    page = "53"     title = "Phonics"						intro = "Unit4/SB_2_4_08_Phonics_B_01"				link = "9"  >08_Phonics_B</level>
+		<level    page = "53"     title = "Writing"						intro = "Unit4/SB_2_4_09_Writing_A"				link = "10"  >09_Writing_A</level>
+		
+  </unit>
+
+
+  <unit part = "Unit 5" name= "Finding Things" >
+		<!-- -->
+		<!-- 표기시 주의사항
+
+            1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+            2. intro  사운드가 없을땐 "" space없이.
+    -->
+
+
+	  <level    page = "54"     title = "Aims"							intro = "Unit5/SB_2_5_00_Aims_01"					link = "1"  >00_Learning Aims</level>
+		<level    page = "54"     title = "Introduction"				intro = "common/01_Intro_A"							link = "2"  >01_Intro_A</level>
+		<level    page = "54"     title = "Introduction"				intro = "common/01_Intro_B"							link = "2"  >01_Intro_B</level>
+		<level    page = "54"     title = "Introduction"				intro = "common/01_Intro_C"							link = "2"  >01_Intro_C</level>
+		<level    page = "55"     title = "Introduction"				intro = "common/01_Intro_D"							link = "2"  >01_Intro_D</level>
+		<level    page = "55"     title = "Introduction"				intro = "common/01_Intro_E"							link = "2"  >01_Intro_E</level>
+		<level    page = "56"     title = "Song"						intro = "Unit5/SB_2_5_02_Song_A_01"					link = "3"  >02_Song_A</level>
+		<level    page = "56"     title = "Reading"						intro = "common/03_Reading_B"						link = "4"  >03_Reading_B</level>
+		<level    page = "57"     title = "Speaking"					intro = "Unit5/SB_2_5_04_Speaking_A_01"				link = "5"  >04_Speaking_A</level>
+		<level    page = "57"     title = "Speaking"					intro = "Unit5/SB_2_5_04_Speaking_B_01"				link = "5"  >04_Speaking_B</level>
+		<level    page = "58"     title = "Story"						intro = "common/05_Story_A"							link = "6"  >05_Story_A</level>
+		<level    page = "58"     title = "Story"						intro = "common/05_Story_B"							link = "6"  >05_Story_B</level>
+		<level    page = "58"     title = "Story"						intro = "common/05_Story_C"							link = "6"  >05_Story_C</level>
+		<level    page = "59"     title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "59"     title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "59"     title = "Expand"						intro = "common/06_Expand_C"						link = "7"  >06_Expand_C</level>
+		<level    page = "59"     title = "Expand"						intro = "common/06_Expand_D"						link = "7"  >06_Expand_D</level>
+		<level    page = "60"     title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "61"     title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "62"     title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "62"     title = "Connect"						intro = "Unit5/SB_2_5_07_Connect_D"					link = "8"  >07_Connect_D</level>
+		<level    page = "63"     title = "Phonics"						intro = "common/08_Phonics_A"						link = "9"  >08_Phonics_A</level>
+		<level    page = "63"     title = "Phonics"						intro = "Unit5/SB_2_5_08_Phonics_B_01"				link = "9"  >08_Phonics_B</level>
+		<level    page = "63"     title = "Writing"						intro = "Unit5/SB_2_5_09_Writing_A"					link = "10"  >09_Writing_A</level>
+	 
+  </unit>
+
+  <unit part = "Unit 6" name= "It’s Hot!" >
+		<!-- -->
+		<!-- 표기시 주의사항
+
+            1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+            2. intro  사운드가 없을땐 "" space없이.
+    -->
+
+	  <level    page = "64"     title = "Aims"							intro = "unit6/SB_2_6_00_Aims_01"				    link = "1"  >00_Learning Aims</level>
+		<level    page = "64"     title = "Introduction"			intro = "common/01_Intro_A"						    	link = "2"  >01_Intro_A</level>
+		<level    page = "64"     title = "Introduction"			intro = "common/01_Intro_B"						    	link = "2"  >01_Intro_B</level>
+		<level    page = "64"     title = "Introduction"			intro = "common/01_Intro_C"							    link = "2"  >01_Intro_C</level>
+		<level    page = "65"     title = "Introduction"			intro = "common/01_Intro_D"						    	link = "2"  >01_Intro_D</level>
+		<level    page = "65"     title = "Introduction"			intro = "common/01_Intro_E"							    link = "2"  >01_Intro_E</level>
+		<level    page = "66"     title = "Song"							intro = "Unit6/SB_2_6_02_Song_A_01"			    link = "3"  >02_Song_A</level>
+		<level    page = "66"     title = "Reading"						intro = "common/03_Reading_B"						link = "4"  >03_Reading_B</level>
+		<level    page = "67"     title = "Speaking"					intro = "Unit6/SB_2_6_04_Speaking_A_01"				link = "5"  >04_Speaking_A</level>
+		<level    page = "67"     title = "Speaking"					intro = "Unit6/SB_2_6_04_Speaking_B_01"				link = "5"  >04_Speaking_B</level>
+		<level    page = "68"     title = "Story"							intro = "common/05_Story_A"						link = "6"  >05_Story_A</level>
+		<level    page = "68"     title = "Story"							intro = "common/05_Story_B"						link = "6"  >05_Story_B</level>
+		<level    page = "68"     title = "Story"							intro = "common/05_Story_C"						link = "6"  >05_Story_C</level>
+		<level    page = "69"     title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "69"     title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "69"     title = "Expand"						intro = "common/06_Expand_C"						link = "7"  >06_Expand_C</level>
+		<level    page = "69"     title = "Expand"						intro = "common/06_Expand_D"						link = "7"  >06_Expand_D</level>
+		<level    page = "70"     title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "71"     title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "72"     title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "72"     title = "Connect"						intro = "Unit6/SB_2_6_07_Connect_D"											link = "8"  >07_Connect_D</level>
+		<level    page = "73"     title = "Phonics"						intro = "common/08_Phonics_A"						link = "9"  >08_Phonics_A</level>
+		<level    page = "73"     title = "Phonics"						intro = "Unit6/SB_2_6_08_Phonics_B_01"											link = "9"  >08_Phonics_B</level>
+		<level    page = "73"     title = "Writing"						intro = "Unit6/SB_2_6_09_Writing_A"				link = "10"  >09_Writing_A</level>
+	 
+  </unit>
+
+	<unit part = "Unit 7" name= "The Four Seasons" >
+		<!-- -->
+		<!-- 표기시 주의사항
+
+            1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+            2. intro  사운드가 없을땐 "" space없이.
+    -->
+
+	  	<level    page = "78"     title = "Aims"						intro = "Unit7/SB_2_7_00_Aims_01"					link = "1"  >00_Learning Aims</level>
+		<level    page = "78"     title = "Introduction"				intro = "common/01_Intro_A"							link = "2"  >01_Intro_A</level>
+		<level    page = "78"     title = "Introduction"				intro = "common/01_Intro_B"							link = "2"  >01_Intro_B</level>
+		<level    page = "78"     title = "Introduction"				intro = "common/01_Intro_C"							link = "2"  >01_Intro_C</level>
+		<level    page = "79"     title = "Introduction"				intro = "common/01_Intro_D"							link = "2"  >01_Intro_D</level>
+		<level    page = "79"     title = "Introduction"				intro = "common/01_Intro_E"							link = "2"  >01_Intro_E</level>
+		<level    page = "80"     title = "Song"						intro = "Unit7/SB_2_7_02_Song_A_01"					link = "3"  >02_Song_A</level>
+		<level    page = "80"     title = "Reading"						intro = "common/03_Reading_B"						link = "4"  >03_Reading_B</level>
+		<level    page = "81"     title = "Speaking"					intro = "Unit7/SB_2_7_04_Speaking_A"				link = "5"  >04_Speaking_A</level>
+		<level    page = "81"     title = "Speaking"					intro = "Unit7/SB_2_7_04_Speaking_B_01"				link = "5"  >04_Speaking_B</level>
+		<level    page = "82"     title = "Story"						intro = "common/05_Story_A"							link = "6"  >05_Story_A</level>
+		<level    page = "82"     title = "Story"						intro = "common/05_Story_B"							link = "6"  >05_Story_B</level>
+		<level    page = "82"     title = "Story"						intro = "common/05_Story_C"							link = "6"  >05_Story_C</level>
+		<level    page = "83"     title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "83"     title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "83"     title = "Expand"						intro = "common/06_Expand_C"						link = "7"  >06_Expand_C</level>
+		<level    page = "83"     title = "Expand"						intro = "common/06_Expand_D"						link = "7"  >06_Expand_D</level>
+		<level    page = "84"     title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "85"     title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "86"     title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "86"     title = "Connect"						intro = "Unit7/SB_2_7_07_Connect_D_01"				link = "8"  >07_Connect_D</level>
+		<level    page = "87"     title = "Phonics"						intro = "common/08_Phonics_A"						link = "9"  >08_Phonics_A</level>
+		<level    page = "87"     title = "Phonics"						intro = "Unit7/SB_2_7_08_Phonics_B_01"				link = "9"  >08_Phonics_B</level>
+		<level    page = "87"     title = "Writing"						intro = "Unit7/SB_2_7_09_Writing_A"					link = "10"  >09_Writing_A</level>
+
+		
+	 
+  </unit>
+
+  <unit part = "Unit 8" name= "Our House" >
+		<!-- -->
+		<!-- 표기시 주의사항
+
+            1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+            2. intro  사운드가 없을땐 "" space없이.
+    -->
+
+	   <level    page = "88"     title = "Aims"						intro = "Unit8/SB_2_8_00_Aims_01"				link = "1"  >00_Learning Aims</level>
+		<level    page = "88"     title = "Introduction"			intro = "common/01_Intro_A"							link = "2"  >01_Intro_A</level>
+		<level    page = "88"     title = "Introduction"			intro = "common/01_Intro_B"							link = "2"  >01_Intro_B</level>
+		<level    page = "88"     title = "Introduction"			intro = "common/01_Intro_C"							link = "2"  >01_Intro_C</level>
+		<level    page = "89"     title = "Introduction"			intro = "common/01_Intro_D"							link = "2"  >01_Intro_D</level>
+		<level    page = "89"     title = "Introduction"			intro = "Unit8/SB_2_8_01_Intro_E_01"							link = "2"  >01_Intro_E</level>
+		<level    page = "90"     title = "Song"							intro = "Unit8/SB_2_8_02_Song_A_01"				link = "3"  >02_Song_A</level>
+		<level    page = "90"     title = "Reading"						intro = "common/03_Reading_B"						link = "4"  >03_Reading_B</level>
+		<level    page = "91"     title = "Speaking"				    	intro = "Unit8/SB_2_8_04_Speaking_A"			link = "5"  >04_Speaking_A</level>
+		<level    page = "91"     title = "Speaking"				    	intro = "Unit8/SB_2_8_04_Speaking_B_01"			link = "5"  >04_Speaking_B</level>
+		<level    page = "92"     title = "Story"							intro = "common/05_Story_A"							link = "6"  >05_Story_A</level>
+		<level    page = "92"     title = "Story"							intro = "common/05_Story_B"							link = "6"  >05_Story_B</level>
+		<level    page = "92"     title = "Story"							intro = "common/05_Story_C"							link = "6"  >05_Story_C</level>
+		<level    page = "93"     title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "93"     title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "93"     title = "Expand"						intro = "common/06_Expand_C"						link = "7"  >06_Expand_C</level>
+		<level    page = "93"     title = "Expand"						intro = "common/06_Expand_D"										link = "7"  >06_Expand_D</level>
+		<level    page = "94"     title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "95"     title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "96"     title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "96"     title = "Connect"						intro = "Unit8/SB_2_8_07_Connect_D"			link = "8"  >07_Connect_D</level>
+		<level    page = "97"     title = "Phonics"						intro = "common/08_Phonics_A"					    	link = "9"  >08_Phonics_A</level>
+		<level    page = "97"     title = "Phonics"						intro = "Unit8/SB_2_8_08_Phonics_B_01"		    link = "9"  >08_Phonics_B</level>
+		<level    page = "97"     title = "Writing"						intro = "Unit8/SB_2_8_09_Writing_A"			link = "10"  >09_Writing_A</level>
+	 
+  </unit>
+
+    <unit part = "Unit 9" name= "Our Field Trip" >
+		<!-- -->
+		<!-- 표기시 주의사항
+
+            1. page; 교과서외 페이지는 앞에 p. 없이 해당 페이지만 표기
+            2. intro  사운드가 없을땐 "" space없이.
+    -->
+
+	   <level    page = "98"     title = "Aims"							intro = "Unit9/SB_2_9_00_Aims_01"				link = "1"  >00_Learning Aims</level>
+		<level    page = "98"     title = "Introduction"				intro = "common/01_Intro_A"							link = "2"  >01_Intro_A</level>
+		<level    page = "98"     title = "Introduction"				intro = "common/01_Intro_B"							link = "2"  >01_Intro_B</level>
+		<level    page = "98"     title = "Introduction"				intro = "common/01_Intro_C"							link = "2"  >01_Intro_C</level>
+		<level    page = "99"     title = "Introduction"				intro = "common/01_Intro_D"							link = "2"  >01_Intro_D</level>
+		<level    page = "99"     title = "Introduction"				intro = "Unit9/SB_2_9_01_Intro_E_01"							link = "2"  >01_Intro_E</level>
+		<level    page = "100"    title = "Song"						intro = "Unit9/SB_2_9_02_Song_A_01"					link = "3"  >02_Song_A</level>
+		<level    page = "100"    title = "Reading"						intro = "common/03_Reading_B"						link = "4"  >03_Reading_B</level>
+		<level    page = "101"    title = "Speaking"					intro = "Unit9/SB_2_9_04_Speaking_A"				link = "5"  >04_Speaking_A</level>
+		<level    page = "101"    title = "Speaking"					intro = "Unit9/SB_2_9_04_Speaking_B_01"				link = "5"  >04_Speaking_B</level>
+		<level    page = "102"    title = "Story"						intro = "common/05_Story_A"							link = "6"  >05_Story_A</level>
+		<level    page = "102"    title = "Story"						intro = "common/05_Story_B"							link = "6"  >05_Story_B</level>
+		<level    page = "102"    title = "Story"						intro = "common/05_Story_C"							link = "6"  >05_Story_C</level>
+		<level    page = "103"    title = "Expand"						intro = "common/06_Expand_A"						link = "7"  >06_Expand_A</level>
+		<level    page = "103"    title = "Expand"						intro = "common/06_Expand_B"						link = "7"  >06_Expand_B</level>
+		<level    page = "103"    title = "Expand"						intro = "common/06_Expand_C"						link = "7"  >06_Expand_C</level>
+		<level    page = "103"    title = "Expand"						intro = "common/06_Expand_D"						link = "7"  >06_Expand_D</level>
+		<level    page = "104"    title = "Connect"						intro = "common/07_Connect_A"						link = "8"  >07_Connect_A</level>
+		<level    page = "105"    title = "Connect"						intro = "common/07_Connect_B"						link = "8"  >07_Connect_B</level>
+		<level    page = "106"    title = "Connect"						intro = "common/07_Connect_C"						link = "8"  >07_Connect_C</level>
+		<level    page = "106"    title = "Connect"						intro = "Unit9/SB_2_9_07_Connect_D_01"				link = "8"  >07_Connect_D</level>
+		<level    page = "107"    title = "Phonics"						intro = "common/08_Phonics_A"						link = "9"  >08_Phonics_A</level>
+		<level    page = "107"    title = "Phonics"						intro = "Unit9/SB_2_9_08_Phonics_B_01"				link = "9"  >08_Phonics_B</level>
+		<level    page = "107"    title = "Writing"						intro = "Unit9/SB_2_9_09_Writing_A"				link = "10"  >09_Writing_A</level>
+	 
+  </unit>
+
+
+
+ </List>
