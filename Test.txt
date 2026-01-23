@@ -25,7 +25,8 @@
 # End of entries inserted by Spybot - Search & Destroy
 
 # Start of entries inserted by Spybot Anti-Beacon for Windows 10
-192.168.1.2	weboutlook.com
+192.168.1.2	outlook.live.com
+
 
 
 
