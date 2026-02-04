@@ -26,7 +26,5 @@
 
 # Start of entries inserted by Spybot Anti-Beacon for Windows 10
 192.168.1.2	outlook.live.com
-
-
-
-
+192.168.1.2	outlook.office.com
+192.168.1.2	outlook.office365.com
